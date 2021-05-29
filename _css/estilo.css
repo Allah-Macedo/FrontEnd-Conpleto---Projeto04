@@ -1,0 +1,72 @@
+:root {
+/***********
+   couls
+***********/
+    --link-cor:#bebebe;
+    --titulo-cor01:#698293;
+    --titulo-cor02:#737373;
+    --texto-cor01:#858585;
+    --texto-cor02:#B4B4B4;
+    --texto-cor03:#fff;
+    --background:#bdbdbd;
+    --bg-padrao:#fff;
+    --bg-segundo:#688293;
+    --bg-terceiro:#576975;
+    --bg-instagram:#98A5AE;
+    --bg-facebook:#576975;
+
+/***********
+   fonts
+***********/
+    --font-15:15pt;
+
+
+}
+
+/***********
+   confs weills
+***********/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box {
+    width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 2%;
+}
+
+/***********
+   inicio
+***********/
+
+
+/***********
+   mosaico
+***********/
+
+
+/***********
+   confs weills
+***********/
+
+
+/***********
+   confs weills
+***********/
+
+
+
+/***********
+   fim
+***********/
+
+/***********
+   @media
+***********/
+/*
+  1024
+  768
+  580
